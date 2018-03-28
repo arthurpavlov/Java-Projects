@@ -1,0 +1,11 @@
+a) What did I work on last time?
+
+* Drafting ListFiles class methods
+
+
+b) What do I plan to work on now?
+* Implementing ListFiles class methods
+* Refactoring
+
+
+c) Am I blocked on anything?

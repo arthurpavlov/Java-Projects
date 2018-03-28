@@ -1,0 +1,14 @@
+Class name: MoveFileCommand
+
+Parent: Command
+
+Responsibilities:
+*Provides functionality for moving files in the file system.
+*Print an error if a parameter fails validation.
+
+Collaborators:
+WorkingDirectoryHandler
+File
+FileSystem
+CommandData
+OutputLocation

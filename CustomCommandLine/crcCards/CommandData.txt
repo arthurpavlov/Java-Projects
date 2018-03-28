@@ -1,0 +1,9 @@
+Class name: CommandData
+
+Responsibilities:
+*Contain contextual information about a command to be executed
+*Contain a stream for successful output to be written to
+*Contain a stream for unsuccessful output to be written to
+
+Collaborators:
+*OutputLocation

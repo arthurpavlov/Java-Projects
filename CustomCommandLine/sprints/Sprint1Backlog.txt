@@ -1,0 +1,49 @@
+//Sprint 1 Backlog.  
+February 17th to February 22nd
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) [done] As a user .... Be prompted for input
+b) [done] As a user .... Receive information about the validity of input sent
+c) [done] AS a user .... Input empty commands without error
+d) [done] As a user .... Exit the shell
+e) [done] As a user .... Print the current working directory
+f) As a user .... Navigate the working directory to an arbitrary directory
+g) As a user .... Navigate the working directory up to the parent directory
+h) As a user .... List the files in the current directory
+i) As a user .... List the files in an arbitrary directory
+
+Specific tasks to be accomplished:
+a-1. [done] (JShell) Begin coding the structure of the command line interpreter
+a-2. [done] (JShell) Have the shell continually prompt the user for input
+b-1. [done] (JShell) Call the command matching the parsed input, or notify user
+b-2. [done] (Command) Create a Command class
+c-1. [done] (JShell) Parse the user input for proper keywords
+d-1. [done] (ExitCommand) Create the ExitCommand class
+e-1. [done] (FileSystem) Write the base code for the FileSystem class
+e-2. [done] (File) Write the base code for the File class
+e-3. [done] (PrintWorkingDirectory) Implement PrintWorkingDirectory class
+f-1. (ChangeDirectory) Implement Navigating to subdirectory
+f-2. (ChangeDirectory) Implement Navigating to absolute directory
+g-1. (ChangeDirectory) Implement Navigating to the parent directory
+h-1. (ListFiles) Implement listing files in current directory
+i-1. (ListFiles) Implement listing files in other directory
+i-2. (ListFiles) Implement listing files in multiple directories
+j-1. [done] (CRC cards) Create CRC cards for Command classes
+j-2. [done] (CRC cards) Create CRC cards for File System and File classes
+j-3. [done] (CRC cards) Create CRC cards for JShell class
+
+
+These tasks are assigned as follows:
+
+User: Erik
+Tasks: a-1, a-2, b-1, c-1, j-3
+
+User: Abhishek
+Tasks: d-1, j-1, i-1, i-2, e-3
+
+User: Colin
+Tasks: b-2, e-1, e-2, j-2
+
+User: Arthur
+Tasks: f-1, f-2, g-1, h-1

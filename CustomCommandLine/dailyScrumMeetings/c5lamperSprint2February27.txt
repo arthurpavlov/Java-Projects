@@ -1,0 +1,16 @@
+
+a) What did I work on last time? 
+*Created and implemented the HistoryCommand class
+*Created and implemented the PushDirectory and PopDirectory classes
+*Assorted documentation
+*Assorted helper methods with path resolving
+*Added and implemented WorkingDirectoryHandler
+*Refactored previous code to work with WorkingDirectoryHandler
+*Updated documentation to include WorkingDirectoryHandler
+
+b) What do I plan to work on now?  
+*Bugfixes
+*Further documentation
+
+c) Am I blocked on anything?  
+*Nope

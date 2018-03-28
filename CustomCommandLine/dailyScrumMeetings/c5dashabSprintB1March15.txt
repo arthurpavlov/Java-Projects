@@ -1,0 +1,9 @@
+a) What did I work on last time?
+* Created CRC card for CopyFileCommand
+* Partially completed implementation of CopyFileCommand
+
+b) What do I plan to work on now?
+* Complete implementation of CopyFileCommand
+
+c) Am I blocked on anything?
+* Not at this time

@@ -1,0 +1,12 @@
+Class name: ChangeDirectoryCommand
+
+Parent: Command
+
+Responsibilities:
+*Provide functionality to change the directory to the specified directory.
+
+Collaborators:
+WorkingDirectoryHandler
+File
+CommandData
+OutputLocation

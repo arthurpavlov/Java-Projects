@@ -1,0 +1,12 @@
+a) What did I work on last time?
+
+* Implementing ChangeDirectoryCommand
+
+
+b) What do I plan to work on now?
+* Implementing “getter” and “setter” methods in JShell
+* Implementing Commands
+* Refactoring
+
+
+c) Am I blocked on anything?

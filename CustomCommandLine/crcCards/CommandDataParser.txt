@@ -1,0 +1,9 @@
+Class name: CommandDataParser
+
+Responsibilities:
+*Convert the string containing the parameters to a command into parsed
+  command parameters, as well as other special features like pipes, redirects,
+  and any other non-command parameters which should be handled.
+
+Collaborators:
+*OutputLocation

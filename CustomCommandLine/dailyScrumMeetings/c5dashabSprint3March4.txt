@@ -1,0 +1,8 @@
+a) What did I work on last time?
+* Adding documentation and javadocs for Exit, Echo, ChangeDirectory and History
+
+b) What do I plan to work on now?
+* Assisting with testing
+
+c) Am I blocked on anything?
+* Not at this time

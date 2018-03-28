@@ -1,0 +1,25 @@
+Class name: JShell
+
+Responsibilities:
+*Invoke the command which was input
+*Provide method to shutdown program
+*Provide method to get current working directory
+*Provide method to set current working directory
+*Keep track of command history
+*Keep track of the directory stack
+*Keep track of the file system
+
+Collaborators:
+*Filesystem
+*File
+*WorkingDirectoryHandler
+*CommandDataParser
+*Command
+*ChangeDirectoryCommand
+*HistoryCommand
+*ListDirectoriesCommand
+*ListFileContentsCommand
+*MakeDirectoryCommand
+*PopDirectoryCommand
+*PrintWorkingDirectoryCommand
+*PushDirectoryCommand

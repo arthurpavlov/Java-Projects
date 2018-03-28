@@ -1,0 +1,20 @@
+As a user	Be prompted for input									1 hour
+As a user 	Receive information about the validity of input sent					1 hour
+As a user	Input empty commands without error							20 minutes
+As a user	Create a directory									20 minutes
+As a user	Create multiple directories								5 minutes
+As a user	Nagivate the working directory to an arbitrary directory				20 minutes
+As a user	Navigate the working directory up to the parent directory				20 minutes
+As a user	Store the current directory into a stack of directories					45 minutes
+As a user	Navigate to the newest directory in aforementioned stack				5 minutes
+As a user	List the files in the current directory							20 minutes
+As a user	List the files in an arbitrary directory						20 minutes
+As a user	Rewrite specific data into a file [whether or not the file exists yet]			30 minutes
+As a user	Append data to the end of a file [whether or not the file exists yet]			30 minutes
+As a user	Print out the contents of a file to the console						20 minutes
+As a user	Print out the contents of multiple files to the console					5 minutes
+As a user	Exit the shell										5 minutes
+As a user	Print the current working directory							5 minutes
+As a user	Print the full command history, including any invalid commands				30 minutes
+As a user	Print a certain number of previously entered commands, including invalid commands	20 minutes
+As a user	Retrieve documentation for any command							2-3 hours

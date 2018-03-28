@@ -1,0 +1,37 @@
+//Sprint 1 Backlog.  
+March 20th to March 25th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user ... Move files and directories
+b) As a user ... Copy files
+c) As a user ... Copy directories recursively
+
+Specific tasks to be accomplished:
+a-1. (MoveFileCommand) Implement command that moves files
+a-2. (MoveFileCommand) Implement moving directories 
+b-1. (CRC) Create CRC for MoveFileCommand
+c-1. (JUnitTest) Create JUnitTest for MoveFileCommand
+c-2. (JUnitTest) Create JUnitTest for CopyFileCommand
+-- c-3. (JUnitTest) Create JUnitTest for WebGetCommand
+-- c-4. (JUnitTest) Create JUnitTest for HistoryRunCommand
+-- c-5. (JUnitTest) Create JUnitTest for SearchCommand
+-- c-6. (JUnitTest) Update JUnitTest for ListDirectoriesCommand
+d: Watch usage video and ensure functionality is consistent:
+d-1. Part 1: https://www.youtube.com/watch?v=qjF4SBUuj_c
+-- d-2. Part 2: https://www.youtube.com/watch?v=BazNwN8syoo
+e-1. Check FAQ and grading scheme to ensure functionality is consistent
+
+These tasks are assigned as follows:
+
+User: Abhishek
+Tasks: c-2, d-1
+
+User: Arthur
+Tasks: a-1, a-2, b-1, c-1
+
+User: Colin
+Tasks: c-4, c-6, e-1
+
+User: Erik
+Tasks: c-3, c-5, d-2

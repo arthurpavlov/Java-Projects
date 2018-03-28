@@ -1,0 +1,18 @@
+Class name: HistoryCommand
+
+Parent: Command
+
+Responsibilities:
+* Retrieve the command history from the shell instance
+* Check if an optional argument exists, and if it does:
+  - ensure that there is only one argument
+  - ensure that the argument is a positive integer
+* Print a list of numbered lines, where the number is 1 for the most recent
+  command, 2 for the 2nd most recent, et cetera,
+  and the line is the command executed.
+* If the argument exists, truncate the output to that many lines.
+
+Collaborators:
+JShell
+CommandData
+OutputLocation

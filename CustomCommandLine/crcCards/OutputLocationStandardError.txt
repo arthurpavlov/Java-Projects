@@ -1,0 +1,8 @@
+Class name: OutputLocationStandardError
+
+Parent: OutputLocation
+
+Responsibilities:
+*Write the data provided to the standard error stream
+
+Collaborators:

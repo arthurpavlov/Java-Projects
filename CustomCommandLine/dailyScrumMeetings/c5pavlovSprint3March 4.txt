@@ -1,0 +1,10 @@
+a) What did I work on last time?
+
+* Implementing Javadocs for ManualCommand, PopDirectoryCommand, PushDirectoryCommand and PrintWorkingDirectoryCommand.
+
+
+b) What do I plan to work on now?
+* Unittesting
+
+c) Am I blocked on anything?
+* No.

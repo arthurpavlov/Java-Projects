@@ -1,0 +1,8 @@
+Class name: OutputLocationStandardOutput
+
+Parent: OutputLocation
+
+Responsibilities:
+*Write the data provided to the standard output stream
+
+Collaborators:

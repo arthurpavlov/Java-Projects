@@ -1,0 +1,60 @@
+//Sprint 2 Backlog.
+February 23rd to February 28th
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user ... Rewrite specific data into a file [file may not exist yet]
+b) As a user ... Append data to the end of a file [file may not exist yet]
+c) As a user ... Create a directory
+d) As a user ... Create multiple directories
+e) As a user ... Store the current directory into a stack of directories
+f) As a user ... Navigate to the newest directory in aforementioned stack
+g) As a user ... Print out the contents of a file to the console
+h) As a user ... Print out the contents of multiple files to the console
+i) As a user ... Print the full command history, including any invalid commands
+j) As a user ... Print a certain number of previously entered commands, 
+			including invalid commands
+k) As a user ... Retrieve documentation for any command
+l) As a user ... Navigate the working directory to an arbitrary directory
+m) As a user ... Navigate the working directory up to the parent directory
+n) As a user ... List the files in the current directory
+o) As a user ... List the files in an arbitrary directory
+
+Specific tasks to be accomplished:
+-- a-1. (Echo) Write echo class so it can handle split outputs
+-- b-1. (JShell) Handle Setting output for Echo command
+c-1. (MakeDirectory) Implement making a directory
+d-1. (MakeDirectory) Implement multi-directory support
+-- e-1. (JShell) Make a Directory stack to push and pop directories onto
+-- e-2. (PushDirectory) Implement pushing a directory onto the directory stack
+-- f-1. (PopDirectory) Implement popping a directory off of the directory stack
+g-1. (ListFileContents) Implement printing file contents to console
+h-1. (ListFileContents) Implement printing multiple files contents at once
+-- i-1. (JShell) Create storage for history to store command input into
+-- i-2. (History) Implement printing all past commands to console
+-- j-1. (History) Implement printing a specific number of past commands
+k-1. (Manual) Implement printing documentation for any command
+l-1. (ChangeDirectory) Implement Navigating to subdirectory
+l-2. (ChangeDirectory) Implement Navigating to absolute directory
+m-1. (ChangeDirectory) Implement Navigating to the parent directory
+n-1. (ListFiles) Implement listing files in current directory
+o-1. (ListFiles) Implement listing files in other directory
+o-2. (ListFiles) Implement listing files in multiple directories
+-- p-1. (UnitTests) Create a unit test for FileSystem
+-- [merged with p-1] p-2. (UnitTests) Create a unit test for File
+-- p-3. (UnitTests) Create a unit test for JShell
+
+These tasks are assigned as follows:
+
+User: Abhishek
+Tasks: c-1, d-1, g-1, h-1, k-1
+
+User: Arthur
+Tasks: l-1, l-2, m-1, n-1, o-1, o-2
+
+User: Colin
+Tasks: a-1, b-1, p-1, p-2, p-3
+
+User: Erik
+Tasks: e-1, e-2, f-1, i-1, i-2, j-1
+
+

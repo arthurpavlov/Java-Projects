@@ -1,0 +1,12 @@
+Class name: MakeDirectoryCommand
+
+Parent: Command
+
+Responsibilities:
+*Provide functionality to create a directory in the specified location
+
+Collaborators:
+CommandData
+OutputLocation
+File
+WorkingDirectoryHandler

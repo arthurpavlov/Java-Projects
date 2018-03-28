@@ -1,0 +1,8 @@
+a) What did I work on last time?
+* Work on test classes, error fixing
+
+b) What do I plan to work on now?
+* More design work, especially to facilitate unit testing
+
+c) Am I blocked on anything?
+* Not at this time

@@ -1,0 +1,11 @@
+Class name: EchoCommand
+
+Parent: Command
+
+Responsibilities:
+* Ensure there is at least one argument.
+* Write the arguments passed to the command output location
+
+Collaborators:
+CommandData
+OutputLocation

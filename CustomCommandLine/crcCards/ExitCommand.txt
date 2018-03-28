@@ -1,0 +1,9 @@
+Class name: ExitCommand
+
+Parent: Command
+
+Responsibilities:
+*Provide functionality to exit the shell
+
+Collaborators:
+CommandData

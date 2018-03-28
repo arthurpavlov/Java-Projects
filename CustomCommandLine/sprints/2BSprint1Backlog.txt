@@ -1,0 +1,47 @@
+//Sprint 1 Backlog.  
+March 12th to March 19th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user ... Add flags to commands to change their functionality
+b) As a user ... Recursively list subdirectories and file contents
+c) As a user ... Move files and directories
+d) As a user ... Copy files
+e) As a user ... Copy directories recursively
+f) As a user ... Retrieve files from the internet into files through a command
+g) As a user ... Re-execute commands from the command history
+h) As a user ... Search a file for lines which match a regular expression
+i) As a user ... Search a directory recursively for lines in files which match a regular expression
+
+Specific tasks to be accomplished:
+-- a-1. (CommandDataParser) Support flag options for commands
+-- b-1. (ListDirectoriesCommand) Add recursive subdirectory handling
+-- b-2. (ListFileContentsCommand) Add multiple file handling
+c-1. (MoveFileCommand) Implement command that moves files
+c-2. (MoveFileCommand) Implement moving directories 
+d-1. (CopyFileCommand) Implement command that copies files
+e-1. (CopyFileCommand) Implement copying directories recursively
+-- f-1. (WebGetCommand) Implement command to retrieve files remotely
+-- g-1. (HistoryRunCommand) Implement re-running a command from command history
+-- h-1. (SearchCommand) Implement searching paths for a regex string
+-- i-1. (SearchCommand) Implement searching recursively for the regex string
+j-1. (CRC) Create CRC for MoveFileCommand
+-- j-2. (CRC) Create CRC for CopyFileCommand
+-- j-3. (CRC) Create CRC for WebGetCommand
+-- j-4. (CRC) Create CRC for HistoryRunCommand
+-- j-5. (CRC) Create CRC for SearchCommand
+
+
+These tasks are assigned as follows:
+
+User: Abhishek
+Tasks: b-2, d-1, e-1, j-2
+
+User: Arthur
+Tasks: c-1, c-2, j-1
+
+User: Colin
+Tasks: a-1, b-1, g-1, j-4
+
+User: Erik
+Tasks: h-1, i-1, j-5, f-1, j-3

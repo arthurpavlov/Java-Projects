@@ -1,0 +1,13 @@
+Class name: ChangeDirectoryCommand
+
+Parent: Command
+
+Responsibilities:
+*For each file parameter, print the directory contents
+*Validate each parameter to see if it is a file, or print an error otherwise.
+
+Collaborators:
+WorkingDirectoryHandler
+File
+CommandData
+OutputLocation

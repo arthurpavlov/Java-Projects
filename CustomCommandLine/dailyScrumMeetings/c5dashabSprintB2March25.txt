@@ -1,0 +1,9 @@
+a) What did I work on last time?
+* Implementing JUnit tests for CopyFileCommand
+
+b) What do I plan to work on now?
+* Implementing JUnit tests for CopyFileCommand
+* Going over the program and making sure it matches the given specifications
+
+c) Am I blocked on anything?
+* Not at this time

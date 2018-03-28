@@ -1,0 +1,12 @@
+Class name: ManualCommand
+
+Parent: Command
+
+Responsibilities:
+* Return the documentation for a command specified by the user
+
+Collaborators:
+CommandData
+JShell
+OutputLocation
+Command

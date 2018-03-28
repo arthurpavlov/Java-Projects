@@ -1,0 +1,4 @@
+Class name: OutputLocation
+
+Responsibilities:
+*Provide an interface for arbitrary text data to be written to.

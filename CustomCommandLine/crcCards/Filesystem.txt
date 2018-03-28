@@ -1,0 +1,8 @@
+Class name: Filesystem
+
+Responsibilities:
+*Provide a method to resolve files at arbitrary [absolute] paths
+*Keep a reference to the root file
+
+Collaborators:
+* File

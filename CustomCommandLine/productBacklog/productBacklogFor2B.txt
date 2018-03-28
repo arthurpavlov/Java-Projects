@@ -1,0 +1,9 @@
+As a user   Add flags to commands to change their functionality			                1 hour
+As a user   Recursively list subdirectories and file contents                                   30 minutes
+As a user   Move files and directories                                                          1 hour
+As a user   Copy files                                                                          45 minutes
+As a user   Copy directories recursively                                                        30 minutes
+As a user   Retrieve files from the internet into files through a command                       45 minutes
+As a user   Re-execute commands from the command history                                        30 minutes
+As a user   Search a file for lines which match a regular expression                            1 hour
+As a user   Search a directory recursively for lines in files which match a regular expression  2 hours

@@ -1,0 +1,7 @@
+Class name: Command
+
+Responsibilities:
+*Provide information about the command
+*Provide input validation for the arguments given to the command
+*Perform some action based on parsed input
+*Keep track of known flags

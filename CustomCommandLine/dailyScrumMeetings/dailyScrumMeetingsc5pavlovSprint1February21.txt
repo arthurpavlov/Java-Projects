@@ -1,0 +1,12 @@
+a) What did I work on last time?
+
+* Drafting design for directory methods.
+
+
+b) What do I plan to work on now?
+* Implementing the directory methods.
+
+
+
+c) Am I blocked on anything?
+* Understanding how FileClass interacts with the other classes.

@@ -1,0 +1,12 @@
+Class name: WebGetCommand
+
+Parent: Command
+
+Responsibilities:
+* Retrieves a file from a URL and stores it in the CWD
+
+Collaborators:
+CommandData
+WorkingDirectoryManager
+OutputLocation
+File

@@ -1,0 +1,50 @@
+//Sprint 2 Backlog.
+February 28th to Mar 6th
+
+User Stories from Product Backlog that we will address in this sprint:
+As a user... 	Receive information about the validity of input sent
+As a user...	Retrieve documentation for any command
+
+
+Specific tasks to be accomplished:
+a-1 [done] [Documentation] Write a class javadoc for EchoCommand
+a-2 [done] [Documentation] Write a class javadoc for ChangeDirectoryCommand
+a-3 [done] [Documentation] Write a class javadoc for ExitCommand
+a-4 [done] [Documentation] Write a class javadoc for HistoryCommand
+-- a-5 [Documentation] Write a class javadoc for ListDirectoriesCommand
+-- a-6 [Documentation] Write a class javadoc for MakeDirectoryCommand
+a-7 [Documentation] Write a class javadoc for ManualCommand
+a-8 [Documentation] Write a class javadoc for PopDirectoryCommand
+a-9 [Documentation] Write a class javadoc for PrintWorkingDirectoryCommand
+a-10 [Documentation] Write a class javadoc for PushDirectoryCommand
+-- a-11 [Documentation] Write a class javadoc for JShell
+-- a-12 [Documentation] Write a class javadoc for WorkingDirectoryHandler
+-- a-13 [Documentation] Write method javadocs for JShell
+
+b-1 [ManualCommand] Update all of the command documentation to follow a
+                       unified format, with usage at the top.
+
+c-1 [HistoryCommand] Add descriptive error messages for History Command.
+
+-- d-1 [JShell] Add descriptive error messages for outputting to file.
+
+-- e-1 [Tests] Create a JUnit test for CommandDataParser
+e-2 [Tests] Create a JUnit test for WorkingDirectoryHandler
+
+
+
+These tasks are assigned as follows:
+
+User: Abhishek
+Tasks: a-1, a-2, a-3, a-4
+
+User: Arthur
+Tasks: a-7, a-8, a-9, a-10
+
+User: Colin
+Tasks: a-5, a-6, a-11, a-12, d-1, e-1
+
+User: Erik
+Tasks: a-13, b-1, c-1, e-2
+
+

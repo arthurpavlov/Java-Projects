@@ -1,0 +1,8 @@
+Class name: OutputLocationBuffer
+
+Parent: OutputLocation
+
+Responsibilities:
+*Stores data written to it in a list of strings
+
+Collaborators:

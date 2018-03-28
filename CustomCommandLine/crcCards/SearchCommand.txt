@@ -1,0 +1,11 @@
+Class name: SearchCommand
+
+Parent: Command
+
+Responsibilities:
+* Search paths for a regex string
+* Search recursively for a regex string
+
+Collaborators:
+WorkingDirectoryHandler
+File

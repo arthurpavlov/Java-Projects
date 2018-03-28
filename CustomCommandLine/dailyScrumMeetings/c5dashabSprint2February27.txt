@@ -1,0 +1,7 @@
+a) What did I work on last time?
+* Implementing the Manual Command
+
+b) What do I plan to work on now?
+* Implementing mkdir and cat commands
+
+c) Am I blocked on anything?

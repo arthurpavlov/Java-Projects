@@ -1,0 +1,12 @@
+a) What did I work on last time?
+* Create the product backlog
+
+b) What do I plan to work on now?
+* Add logic to the shell for commands specified by regular expressions
+* Add the "run from history" command
+* Add flag handling logic to the CommandDataParser
+* Little bits of documentation here and there
+* Bug fixing, especially finding edge cases.
+
+c) Am I blocked on anything?
+* Not at this time

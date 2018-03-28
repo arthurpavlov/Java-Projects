@@ -1,0 +1,14 @@
+Class name: ListFileContentsCommand
+
+Parent: Command
+
+Responsibilities:
+* Ensure there is at least one argument
+* Validate that all of the arguments passed are valid files, and those files are data containing.
+* For each file argument, sanely print the contents of the file.
+
+Collaborators:
+CommandData
+OutputLocation
+File
+WorkingDirectoryHandler

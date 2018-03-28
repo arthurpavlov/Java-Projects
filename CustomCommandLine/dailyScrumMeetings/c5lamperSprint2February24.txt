@@ -1,0 +1,10 @@
+
+a) What did I work on last time? 
+*Fixing issues with JShell
+*Created the sprint 2 backlog
+
+b) What do I plan to work on now?  
+*Fixing issue with parameter parser
+
+c) Am I blocked on anything?  
+*No

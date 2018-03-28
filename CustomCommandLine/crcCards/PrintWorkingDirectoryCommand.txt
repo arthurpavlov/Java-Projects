@@ -1,0 +1,11 @@
+Class name: PrintWorkingDirectoryCommand
+
+Parent: Command
+
+Responsibilities:
+*Print the current working directory
+
+Collaborators:
+CommandData
+OutputLocation
+WorkingDirectoryHandler

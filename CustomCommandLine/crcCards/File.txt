@@ -1,0 +1,10 @@
+Class name: File
+
+Responsibilities:
+*Keep track of whether the file is a directory or a data containing file
+*Store an arbitrary amount of textual data, if in data containing form
+*Store an arbitrary number of subfiles, if in directory form
+*Provide methods to retrieve/set/append/get the data, if in data containing form
+*Provide methods to add/remove/get the directory contents, if in directory form
+*Provide a method to get all of the files in the directory, if in directory form
+*Easily be able to provide what form the file is in.

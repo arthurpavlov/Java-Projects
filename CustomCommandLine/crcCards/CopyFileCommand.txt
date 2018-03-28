@@ -1,0 +1,12 @@
+Class name: CopyFileCommand
+
+Parent: Command
+
+Responsibilities:
+*Provide functionality to recursively copy a file or directory to another directory
+
+Collaborators:
+WorkingDirectoryHandler
+File
+CommandData
+OutputLocation

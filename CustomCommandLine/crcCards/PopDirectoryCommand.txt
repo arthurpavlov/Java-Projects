@@ -1,0 +1,14 @@
+Class name: PopDirectoryCommand
+
+Parent: Command
+
+Responsibilities:
+*Save the current working directory onto a directory stack in a LIFO order.
+*Afterwards, change the working directory to the specified directory
+*Ensure that the single argument given is a valid directory, otherwise print an error.
+
+Collaborators:
+JShell
+WorkingDirectoryHandler
+CommandData
+OutputLocation

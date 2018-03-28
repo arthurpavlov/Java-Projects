@@ -1,0 +1,11 @@
+
+a) What did I work on last time? 
+* Created a WebGetCommand
+* Implemented SearchCommand
+
+b) What do I plan to work on now?  
+* Testing
+* Documentation
+
+c) Am I blocked on anything?  
+* Nope

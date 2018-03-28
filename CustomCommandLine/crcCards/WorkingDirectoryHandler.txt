@@ -1,0 +1,11 @@
+Class name: WorkingDirectoryHandler
+
+Responsibilities:
+*Keep track of the current working directory
+*ensure that the current working directory is valid
+*Contain the filesystem and provide methods to access it
+*Contain helper methods related to resolving file paths
+
+Collaborators:
+*Filesystem
+*File

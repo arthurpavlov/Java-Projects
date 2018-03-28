@@ -1,0 +1,12 @@
+Class name: HistoryRunCommand
+
+Parent: Command
+
+Responsibilities:
+* Retrieve and run a specific article of history from the shell's command history.
+* Ensure that the article is within the valid set of history, and isn't itself the currently executing command.
+
+Collaborators:
+JShell
+CommandData
+OutputLocation

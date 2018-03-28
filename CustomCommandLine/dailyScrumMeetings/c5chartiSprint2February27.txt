@@ -1,0 +1,16 @@
+a) What did I work on last time?
+* Formatting, general QOL improvements
+* Test cases for Filesystem
+* Refactoring, particularly of the change directory command
+* Updates to the project design
+* Output location API for the echo command
+* The Echo command
+
+b) What do I plan to work on now?
+* More design work
+* Debugging, in conjunction with --
+* Unit tests for the File and JShell classes
+
+c) Am I blocked on anything?
+* Command completion, particularly of file manipulation commands like
+ls, cat, and mkdir.

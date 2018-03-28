@@ -1,0 +1,11 @@
+a) What did I work on last time?
+* CRC cards for File and Filesystem
+* Miscellaneous documentation
+* The file and filesystem classes, as per the scrum backlog assignments
+* Brainstorming
+b) What do I plan to work on now?
+* Preparations for the next scrum beginning tomorrow
+* Any remaining lower level dependencies and fixing any bugs or code issues
+
+c) Am I blocked on anything?
+* CRC card completion

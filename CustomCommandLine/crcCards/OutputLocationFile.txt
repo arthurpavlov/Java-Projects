@@ -1,0 +1,12 @@
+Class name: OutputLocationShell
+
+Parent: OutputLocation
+
+Responsibilities:
+*Write the data provided to a file
+*Provide a method to set whether the data will be rewritten in the file, or appended.
+
+Collaborators:
+File
+Filesystem
+WorkingDirectoryHandler

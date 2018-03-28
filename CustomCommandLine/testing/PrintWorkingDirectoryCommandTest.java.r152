@@ -1,0 +1,61 @@
+package test;
+
+import static org.junit.Assert.*;
+
+import java.util.Arrays;
+
+import org.junit.Before;
+import org.junit.Test;
+
+import command.Command;
+import command.CommandData;
+import command.PrintWorkingDirectoryCommand;
+import driver.WorkingDirectoryHandler;
+import file.Filesystem;
+import outputlocation.OutputLocationCollect;
+
+public class PrintWorkingDirectoryCommandTest {
+
+  private OutputLocationCollect out;
+  private OutputLocationCollect err;
+  private WorkingDirectoryHandler wdh;
+  private Command command;
+  
+  private CommandData getData(String... params) {
+    return new CommandData(Arrays.asList(params), out, err);
+  }
+  
+  @Before
+  public void setUp() {
+
+    out = new OutputLocationCollect();
+    err = new OutputLocationCollect();
+    
+    wdh = new WorkingDirectoryHandler(new Filesystem());
+    
+    command = new PrintWorkingDirectoryCommand(wdh);
+  }
+
+  /**
+   * Ensure command works properly with no parameters
+   */
+  @Test
+  public void testEmpty() {
+    assertTrue(command.execute(getData()));
+    assertEquals(1, out.getBuffer().size());
+    assertEquals("/", out.getBuffer().get(0));
+    assertTrue(err.getBuffer().isEmpty());
+  }
+  
+  /**
+   * Ensure command errors properly with parameters
+   */
+  @Test
+  public void testMultiInput() {
+    assertFalse(command.execute(getData("one", "two", "three")));
+    assertTrue(out.getBuffer().isEmpty());
+    assertTrue(err.getBuffer().isEmpty());
+
+  }
+
+}

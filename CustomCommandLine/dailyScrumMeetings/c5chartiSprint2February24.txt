@@ -1,0 +1,8 @@
+a) What did I work on last time?
+* CRC cards for the remaining classes
+* Design for the command classes and output for the command
+* Miscellaneous refactoring
+b) What do I plan to work on now?
+* Implementation of command classes, unit tests
+
+c) Am I blocked on anything?

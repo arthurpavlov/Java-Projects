@@ -1,0 +1,17 @@
+a) What did I work on last time?
+* Design work, especially with Erik [c5lamper]
+* Modifying the command class to be much more robust
+* CRC card modifications to reflect all of the design changes.
+* Fixes to miscellaneous commands
+* Lots of formatting, mostly just to follow google style guidelines.
+* Bug fixing in parameter parser
+* Bug fixing in file output appending logic [weird little edge case]
+* Sprint backlog
+
+b) What do I plan to work on now?
+* Documentation
+* Unit tests for CommandDataParser
+* Preconditions, proper exception throwing, that sort of thing
+
+c) Am I blocked on anything?
+* Not at this time

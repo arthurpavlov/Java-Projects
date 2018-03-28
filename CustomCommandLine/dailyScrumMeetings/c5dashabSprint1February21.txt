@@ -1,0 +1,11 @@
+a) What did I work on last time?
+* Creating Exit and PWD classes
+* Understanding and implementing parts of the new design
+
+b) What do I plan to work on now?
+* Preparations for the next scrum, reading through the contributions of my partners
+* Completing CRC Cards and command descriptions
+
+c) Am I blocked on anything?
+* CRC card completion
+* Listing files

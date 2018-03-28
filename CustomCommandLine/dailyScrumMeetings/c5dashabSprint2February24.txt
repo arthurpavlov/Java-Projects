@@ -1,0 +1,8 @@
+a) What did I work on last time?
+* Fixing code in PWD and ExitCommand to suit the new design
+
+b) What do I plan to work on now?
+* Implementing mkdir, ls and man commands
+
+c) Am I blocked on anything?
+* ls commands
